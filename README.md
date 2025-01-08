@@ -11,7 +11,9 @@
 
 PROJECTS🥇:
 
-❤️ Nxt Trendz ( ECommerce Clone- Amazon, Flipkart) (rakeshreact.ccbp.tech)
+❤️ Nxt Trendz ( ECommerce Clone- Amazon, Flipkart) 
+
+Link: https://rakeshreact.ccbp.tech
  
  Implemented Nxt Trendz application which is a clone for ECommerce applications like Amazon, Flipkart where
  users can login and can see list of products with search, filters, sort by, etc..
@@ -24,7 +26,10 @@ PROJECTS🥇:
   Technologies used: React JS, JS, CSS, Bootstrap, Routing, REST API Calls, Local Storage, JWT Token, Authorization, Authentication
 
  
- ❤️ Food Munch (rakeshbfood.ccbp.tech)
+ ❤️ Food Munch 
+ 
+ Link: https://rakeshbfood.ccbp.tech/
+ 
              Discover the world of food with this responsive website that showcases a comprehensive list of food items.
          ● Designed with a user-centric approach, this website features HTML structure elements and Bootstrap
             components to ensure a seamless experience.
@@ -32,7 +37,9 @@ PROJECTS🥇:
    Technologies used: HTML, CSS, Bootstrap
 
              
- ❤️ Wikipedia Search Application (rakeshwikipedi.ccbp.tech)
+ ❤️ Wikipedia Search Application 
+
+ Link : https://rakeshwikipedi.ccbp.tech
              Developed custom wikipedia search application where user can search and view curated results and can see
              detailed explanation in wikipedia by clicking on the specific result
             ● Displayed list of search results with HTML list elements with hyperlink as url, styled list using CSS,
