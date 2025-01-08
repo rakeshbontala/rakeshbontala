@@ -15,8 +15,8 @@ PROJECTS🥇:
 
 Link: https://rakeshreact.ccbp.tech
  
- Implemented Nxt Trendz application which is a clone for ECommerce applications like Amazon, Flipkart where
- users can login and can see list of products with search, filters, sort by, etc..
+          Implemented Nxt Trendz application which is a clone for ECommerce applications like Amazon, Flipkart where
+          users can login and can see list of products with search, filters, sort by, etc..
       ● Implemented Different pages and routes for Login, Products, Product details using React Router
         components Route, Switch, Link, props, state, lists, event handlers, form inputs.
       ● Authenticating and authorizing users by taking username, password and doing login POST HTTP API
@@ -40,6 +40,7 @@ Link: https://rakeshreact.ccbp.tech
  ❤️ Wikipedia Search Application 
 
  Link : https://rakeshwikipedi.ccbp.tech
+ 
              Developed custom wikipedia search application where user can search and view curated results and can see
              detailed explanation in wikipedia by clicking on the specific result
             ● Displayed list of search results with HTML list elements with hyperlink as url, styled list using CSS,
