@@ -9,6 +9,10 @@
  Other skills: Data Analytics, Data Science, Flexbox, Git, Linux,
  MongoDB
 
+Nxtwave Disruptive Technologies
+ i am completed "Industry Ready Certification in Full-stack Development" Course in one of the best online Organization NXTWAVE
+
+ 
 PROJECTS🥇:
 
 ❤️ Nxt Trendz ( ECommerce Clone- Amazon, Flipkart) 
