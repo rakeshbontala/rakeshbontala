@@ -1,6 +1,9 @@
-- 👋 Hi, I’m @rakeshbontala
 
-- I'm a passionate Python Full Stack Developer with 2 years of experience in building web applications, APIs, and automation scripts. My expertise lies in developing scalable and efficient software solutions using modern web technologies.
+                                                           👋 Hello, I'm Rakesh Bontala
+							    Linkedin: https://linkedin.com/in/rakesh-bonthala/
+                                                            Github: https://github.com/rakeshbontal
+                                                                
+            I specialize in a wide range of technologies and programming languages, allowing me to tackle diverse projects with confidence. Here are some of my key technical skills:
 
 🥇 Technical Skills:-
  Frontend: HTML, CSS, Bootstrap, JavaScript, React.js
@@ -10,7 +13,7 @@
  MongoDB
 
 Nxtwave Disruptive Technologies
- i am completed "Industry Ready Certification in Full-stack Development" Course in one of the best online Organization NXTWAVE
+ I have completed "Industry Ready Certification in Full-stack Development" Course in one of the best online Organization NXTWAVE
 
  
 PROJECTS🥇:
@@ -53,13 +56,6 @@ Link: https://rakeshreact.ccbp.tech
                 on a particular result, opens the website in a new tab by using the target attribute of the anchor tag in
                HTML.
   Technologies used: HTML, CSS, JS, REST API Calls, Bootstrap
-
-
-WORKEXPERIENCE:  Dec 2022- Ongoing
-  I have two years of experience in ADP Company 
- role           : ADP(Member Technical)
- location       : Hyderabad, Telangana
- developer role : Implementation consultant (SQL Developer & Python Developer)
 
 CERTIFICATES
  
