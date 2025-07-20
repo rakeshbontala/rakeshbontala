@@ -74,7 +74,7 @@
 
 ## 📫 Contact Me
 
-- 📧 Email: bontalarakesh22@gmail.com  
+- 📧 Email: bontalarakesh4@gmail.com  
 - 🔗 [LinkedIn](https://linkedin.com/in/rakesh-bonthala)  
 - 📄 Resume: *[Add Drive or GitHub link]*  
 
