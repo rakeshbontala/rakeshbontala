@@ -39,19 +39,19 @@ Adept at transforming complex datasets into actionable business insights for lea
 - Designed and deployed **real-time SLA performance dashboards** using Power BI, directly pulling data from SQL databases.  
 - Implemented advanced **SQL queries with CTEs and window functions** to optimize KPI calculations and refresh speeds.  
 - Reduced **manual reporting time by 40%**, improving SLA tracking accuracy and decision-making across departments.  
-🔗 *[Add project link here]*
+🔗 *[link]*
 
 ### 🔹 Customer Churn Prediction – Python
 - Built a **predictive ML model** in Python (Scikit-learn, Pandas) to identify high-risk customers likely to churn.  
 - Conducted **EDA, feature engineering, and data preprocessing**, improving model accuracy and interpretability.  
 - Enabled **proactive retention strategies**, potentially reducing churn rates and boosting customer lifetime value.  
-🔗 *[Add GitHub or Colab link]*
+🔗 *[link]*
 
 ### 🔹 HR Attrition Analytics – Excel + Power BI
 - Collected, cleaned, and transformed HR datasets in Excel, then automated pipeline for **seamless Power BI integration**.  
 - Developed **interactive dashboards** with attrition trends, employee demographics, and risk segmentation.  
 - Delivered actionable insights that **helped HR reduce attrition** through targeted retention plans.  
-🔗 *[Add dashboard link]*
+🔗 *[link]*
 
 ---
 
