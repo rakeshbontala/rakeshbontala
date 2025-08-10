@@ -90,8 +90,9 @@ Adept at transforming complex datasets into actionable business insights for lea
 ## 📫 Contact Me
 
 - 📧 Email: bontalarakesh4@gmail.com  
-- 🔗 [LinkedIn](https://linkedin.com/in/rakesh-bonthala)  
-- 📄 Resume: *[Add Drive or GitHub link]*  
+- 🔗 [LinkedIn](https://linkedin.com/in/rakesh-bonthala)
+- 🔗 [Resume](https://1drv.ms/b/c/25aacf52251ce6ab/EY62ulrWaQdPk8OwDWk-f-wBn-sQZ5HwahZV7YhgscwWSQ?e=WEsWca)
+- 🔗 Contact No: +91 8639181341
 
 ---
 
