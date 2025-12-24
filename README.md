@@ -1,76 +1,110 @@
-<h1 align="center">Hi, I'm Rakesh Bonthala 👋</h1>
+# 👋 Hi, I'm Rakesh Bontala
 
-<p align="center">
-  <b>Data Engineer | PySpark | AWS | Airflow | Snowflake | SQL | ETL Pipelines</b><br>
-  📍 Hyderabad, India 🇮🇳 | Open to Data Engineering roles (Remote/Onsite)
-</p>
+🚀 **Data Engineer | 3+ Years Experience | Building Scalable Data Platforms**
 
----
+I am a **Data Engineer with 3+ years of hands-on experience** designing, building, and optimizing **end-to-end data pipelines, data warehouses, and analytics solutions**. I enjoy turning raw, complex data into **reliable, high-quality datasets** that drive business decisions.
 
-## 🚀 About Me
-
-I am a **Data Engineer with 3+ years of experience** at ADP India, building **scalable ETL pipelines, cloud-based data solutions, and real-time analytics dashboards**.  
-Passionate about **designing systems that automate data workflows**, reduce manual effort, and enable data-driven decision-making at enterprise scale.  
-
-- ✅ Built **high-volume ETL pipelines** handling millions of records daily  
-- ✅ Experienced in **cloud ecosystems**: AWS S3, Glue, Redshift, Snowflake  
-- ✅ Proficient in **workflow orchestration** using Apache Airflow  
-- ✅ Strong programming skills: Python (Pandas, PySpark), SQL (T-SQL, PL/SQL), Bash scripting  
-- ✅ Expertise in **data visualization & reporting**: Power BI, Excel Dashboards  
+Currently, I am **actively looking for a role change** where I can work on **large-scale, cloud-native data platforms** and contribute to impactful data products.
 
 ---
 
-## 🛠️ Core Tech Stack
+## 🧠 What I Do Best
 
-| **Category**         | **Tools / Technologies**                                   |
-|----------------------|------------------------------------------------------------|
-| **Programming**      | Python (PySpark, Pandas, NumPy), SQL, Bash                |
-| **Data Engineering** | Airflow, AWS Glue, Redshift, Snowflake, S3, ETL Pipelines  |
-| **Visualization**    | Power BI, Tableau, Excel Dashboards                         |
-| **Automation**       | Python Scripts, Bash, VBA Macros                             |
-| **Web / API**        | REST APIs, Flask/Django                                      |
-| **Version Control**  | Git, GitHub                                                  |
-| **Other Tools**      | Power Query, MS Office                                        |
+* Design and build **scalable ETL/ELT pipelines** for batch and near–real-time data
+* Develop **modern data warehouses** using dimensional modeling (Fact & Dimension tables)
+* Ensure **data quality, reliability, and performance** across pipelines
+* Collaborate with analytics, BI, and business teams to deliver trusted datasets
+* Optimize SQL queries and data models for **performance and cost efficiency**
 
 ---
 
-## 📊 Featured Projects
+## 🛠️ Tech Stack
 
-### 1️⃣ Payroll Data Migration – Oracle → AWS S3 → Snowflake → Airflow
-- Migrated **payroll data from Oracle to Snowflake** via AWS S3, handling **millions of records efficiently**.  
-- Automated **ETL workflows using Airflow DAGs** to reduce manual intervention.  
-- Achieved **50% faster data processing** and **error-free payroll reporting**.  
-🔗 *[Link to project / repo]*
+### 💾 Data & Databases
 
-### 2️⃣ Workforce Analytics Pipeline – PySpark → AWS Glue → Redshift → Power BI
-- Built **end-to-end ETL pipelines** using PySpark & AWS Glue for workforce analytics.  
-- Integrated Redshift with **Power BI dashboards** for HR KPIs tracking.  
-- **Automated reporting** and **real-time insights** enabled data-driven HR decision-making.  
-🔗 *[Link to project / repo]*
+* SQL (Advanced)
+* PostgreSQL | MySQL | SQL Server
+* Data Warehousing Concepts (Star Schema, Snowflake Schema)
 
-### 3️⃣ SLA Performance Dashboard – Power BI + SQL
-- Designed **real-time SLA dashboards** directly connected to SQL databases.  
-- Optimized **SQL queries** with window functions and CTEs to improve refresh time.  
-- Reduced **manual reporting by 40%** and improved SLA tracking accuracy.  
-🔗 *[Link to project / repo]*
+### 🔄 Data Engineering
+
+* ETL / ELT Pipelines
+* Apache Airflow (Orchestration)
+* Data Modeling (Facts & Dimensions)
+* Data Validation & Quality Checks
+
+### ☁️ Cloud & Big Data
+
+* AWS (S3, Redshift, IAM, Glue – working knowledge)
+* BigQuery (basic experience)
+
+### 🧑‍💻 Programming & Tools
+
+* Python (Data Processing, Automation)
+* Git & GitHub
+* Linux / Shell Basics
+* REST APIs
+
+### 📊 Analytics & BI
+
+* Analytical SQL
+* Reporting-ready datasets
+* Supporting BI tools & dashboards
+
+---
+
+## 📂 Featured Projects
+
+### 🔹 Modern SQL Data Warehouse
+
+**Tech:** SQL Server | ETL | Dimensional Modeling
+
+* Built a complete **end-to-end data warehouse** from raw source data
+* Designed **Fact and Dimension tables** using best practices
+* Implemented data transformations, validations, and performance tuning
+* Created analytics-ready views for reporting
+
+👉 Repository demonstrates **real-world data engineering workflows**
 
 ---
 
-## 💼 Experience
+### 🔹 ETL Pipeline with Airflow
 
-**Data Engineer / Analyst**  
-*ADP India Pvt. Ltd.* (Dec 2020 – Present)  
-- Designed and deployed **high-volume ETL pipelines** for payroll and client data  
-- Developed **Python-based automation scripts** reducing manual effort by 60%  
-- Delivered **client-ready dashboards** with Power BI and Excel  
-- Orchestrated **Airflow DAGs for workflow scheduling and monitoring**  
+**Tech:** Python | Airflow | SQL
 
-**Data Engineering Trainee**  
-*NxtWave Online Learning Platform* (2020 – 2022)  
-- Hands-on experience in **ETL pipelines, SQL, Python, PySpark, and dashboarding**  
-- Built small-scale projects simulating **enterprise data workflows**
+* Designed DAGs for reliable data ingestion and transformation
+* Implemented retry logic, scheduling, and monitoring
+* Focused on pipeline stability and maintainability
 
 ---
+
+## 📈 Strengths as a Data Engineer
+
+* Strong **SQL & data modeling fundamentals**
+* Practical understanding of **data warehouse architecture**
+* Focus on **clean, maintainable, and scalable code**
+* Ownership mindset — from data ingestion to consumption
+* Continuous learner adapting to modern data stack tools
+
+---
+
+## 🎯 What I'm Looking For
+
+* Data Engineer roles with **strong data foundations**
+* Teams working on **cloud-based data platforms**
+* Opportunities to grow in **big data, streaming, and advanced cloud services**
+
+---
+
+## 📫 Let's Connect
+
+* 💼 LinkedIn: [https://www.linkedin.com/in/rakesh-bonthala/](https://www.linkedin.com/in/rakesh-bonthala/)
+* 💻 GitHub: [https://github.com/rakeshbontala](https://github.com/rakeshbontala)
+
+---
+
+⭐ *If you like my work, feel free to explore my repositories and connect with me!*
+
 
 ## 📈 GitHub Stats
 
