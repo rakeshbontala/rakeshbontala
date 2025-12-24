@@ -121,7 +121,7 @@ Currently, I am **actively looking for a role change** where I can work on **lar
 
 - 📧 Email: [bontalarakesh4@gmail.com](mailto:bontalarakesh4@gmail.com)  
 - 🔗 [LinkedIn](https://linkedin.com/in/rakesh-bonthala)  
-- 🔗 [Resume](https://1drv.ms/b/c/25aacf52251ce6ab/EfyDXMMitP9Hgz5u0OmMKhsBzA5nJGJWXZAeKARf1KFLgw?e=M6aBPw)  
+- 🔗 [Resume] (https://1drv.ms/b/c/25aacf52251ce6ab/IQDhF0HLRMqNSbPusplelxV0AQwuHDmI5wLa2l8gL2XQAZs?e=AXToOL)  
 - 📱 Contact No: +91 8639181341
 
 ---
