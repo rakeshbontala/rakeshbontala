@@ -1,163 +1,99 @@
-# 👋 Hi, I'm Rakesh Bontala
+# 🚀 Senior Data Engineer | Cloud Architect | Scalable Data Solutions
+**Rakesh Bontala** • *Building the Future of Data at EPAM Systems*
 
-🚀 **Senior Data Engineer | 4+ Years Experience | Building Scalable Data Platforms**
-
-I am a **Data Engineer with 4+ years of hands-on experience** designing, building, and optimizing **end-to-end data pipelines, data warehouses, and analytics solutions**. I specialize in transforming complex, raw data into **reliable, high-quality datasets** that drive business decisions at scale.
-
-Currently working at **EPAM Systems (Mar 2026 – Present)**, focusing on **cloud-native data platforms, scalable architectures, and high-performance data systems**.
-
----
-
-## 🧠 What I Do Best
-
-* Design and build **scalable ETL/ELT pipelines** for batch and near–real-time data processing  
-* Develop **modern data warehouses** using dimensional modeling (Fact & Dimension tables)  
-* Ensure **data quality, reliability, and performance** across data pipelines  
-* Collaborate with analytics, BI, and business teams to deliver **trusted, business-ready datasets**  
-* Optimize SQL queries and data models for **performance, scalability, and cost efficiency**  
-
----
-
-## 🛠️ Tech Stack
-
-### 💾 Data & Databases
-* SQL (Advanced)
-* PostgreSQL | MySQL | SQL Server
-* Data Warehousing (Star Schema, Snowflake Schema)
-
-### 🔄 Data Engineering
-* ETL / ELT Pipelines
-* Apache Airflow (Orchestration)
-* Data Modeling (Facts & Dimensions)
-* Data Validation & Quality Checks
-
-### ☁️ Cloud & Big Data
-* AWS (S3, Redshift, IAM, Glue – working knowledge)
-* Azure (ADF, Databricks, Synapse, Data Lake)
-* BigQuery (basic experience)
-
-### 🧑‍💻 Programming & Tools
-* Python (Data Processing, Automation)
-* PySpark
-* Git & GitHub
-* Linux / Shell Basics
-* REST APIs
-
-### 📊 Analytics & BI
-* Analytical SQL
-* Reporting-ready datasets
-* Supporting BI tools & dashboards (Power BI)
-
----
-
-## 💼 Professional Experience
-
-### 🔹 Senior Data Engineer — EPAM Systems  
-📅 Mar 2026 – Present  
-
-* Working on **cloud-native data platforms and scalable data architectures**  
-* Designing and optimizing **data pipelines for enterprise-scale systems**  
-* Improving **performance, reliability, and data processing efficiency**  
-* Collaborating across teams to deliver **data-driven business solutions**  
-
----
-
-### 🔹 Software Engineer (Data Engineering) — ADP  
-📅 Dec 2022 – Mar 2026  
-
-* Built end-to-end **data ingestion pipelines** using Azure Data Factory & Databricks  
-* Developed scalable **ETL/ELT workflows** for structured & semi-structured data  
-* Designed optimized **data models in Azure Synapse Analytics**  
-* Improved pipeline performance by **30%**  
-* Built **Power BI dashboards** for business reporting  
-* Implemented **data validation frameworks** ensuring high data quality  
-
----
-
-### 🔹 Data Analyst Intern — NxtWave  
-📅 Nov 2020 – Nov 2022  
-
-* Developed Python-based **ETL pipelines**  
-* Integrated data from **APIs and relational databases**  
-* Performed **data cleaning, transformation, and validation**  
-* Built dashboards for business insights  
-
----
-
-## 📂 Featured Projects
-
-### 🔹 Modern SQL Data Warehouse  
-**Tech:** SQL Server | ETL | Dimensional Modeling  
-
-* Built a complete **end-to-end data warehouse** from raw source data  
-* Designed **Fact and Dimension tables** using industry best practices  
-* Implemented **data transformations, validations, and performance tuning**  
-* Created **analytics-ready datasets** for reporting  
-
-👉 Demonstrates **real-world data engineering workflows**
-
----
-
-### 🔹 ETL Pipeline with Airflow  
-**Tech:** Python | Airflow | SQL  
-
-* Designed DAGs for reliable **data ingestion and transformation**  
-* Implemented **retry logic, scheduling, and monitoring**  
-* Focused on **pipeline stability and maintainability**  
-
----
-
-## 📈 Strengths as a Data Engineer
-
-* Strong **SQL & data modeling fundamentals**  
-* Deep understanding of **data warehouse architecture**  
-* Focus on **clean, maintainable, and scalable code**  
-* Ownership mindset — from **data ingestion to consumption**  
-* Continuous learner adapting to **modern data stack tools**  
-
----
-
-## 🎯 What I'm Looking For
-
-* Data Engineer roles with **strong data foundations**  
-* Teams working on **cloud-native data platforms**  
-* Opportunities in **big data, streaming, and advanced cloud services**  
-
----
-
-## 📫 Let's Connect
-
-* 💼 LinkedIn: https://www.linkedin.com/in/rakesh-bonthala/  
-* 💻 GitHub: https://github.com/rakeshbontala  
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rakeshbontala&show_icons=true&theme=default" width="400">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakeshbontala&layout=compact" width="300">
+<p align="left">
+  <a href="https://linkedin.com/in/rakesh-bonthala/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:bontalarakesh4@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://1drv.ms/b/c/25aacf52251ce6ab/IQA7W57m29KcQJ3mLec2EP1-ATfwE6hBNKev73auRH3GxJE?e=7l3zyo"><img src="https://img.shields.io/badge/Resume-FF9900?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume"></a>
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rakeshbontala&theme=radical)](https://git.io/streak-stats)
+---
+
+### 👨‍💻 Professional Profile
+I am a **Senior Data Engineer** with over **4 years of experience** specializing in the design and implementation of robust, end-to-end data ecosystems. My expertise lies at the intersection of **Software Engineering principles** and **Big Data architecture**. I don't just move data; I build scalable, self-healing "refineries" that turn raw noise into high-fidelity business intelligence.
+
+* **Current Focus:** Architecting cloud-native data platforms at **EPAM Systems**.
+* **Core Philosophy:** Clean code, idempotent pipelines, and performance-first modeling.
 
 ---
 
-## 📫 Contact Me
+### 🛠️ Technical Ecosystem
 
-- 📧 Email: bontalarakesh4@gmail.com  
-- 🔗 LinkedIn: https://linkedin.com/in/rakesh-bonthala  
-- 🔗 Resume: https://1drv.ms/b/c/25aacf52251ce6ab/IQDhF0HLRMqNSbPusplelxV0AQwuHDmI5wLa2l8gL2XQAZs?e=AXToOL  
-- 📱 Contact No: +91 8639181341  
+| **Domain** | **Technologies** |
+| :--- | :--- |
+| **Cloud Platforms** | **Azure** (Primary: ADF, Databricks, Synapse, ADLS), **AWS** (S3, Redshift, Glue) |
+| **Big Data & Processing** | **PySpark**, Spark SQL, Delta Lake, Hadoop MapReduce |
+| **Languages** | **Python** (Advanced), **SQL** (Expert/Analytical), Shell Scripting |
+| **Orchestration & DevOps** | **Apache Airflow**, GitHub Actions, CI/CD, Git, Docker |
+| **Data Modeling** | Medallion Architecture, Star Schema, Snowflake Schema, Data Vault 2.0 |
+| **Databases** | PostgreSQL, MySQL, SQL Server, Azure SQL, Snowflake |
+| **Visualization** | Power BI, Tableau, Looker |
 
 ---
 
-## 💡 Fun Fact
+### 💼 Career Evolution
 
-> I enjoy transforming **complex, messy data into actionable insights** and building automation that **saves hours of manual work every week**.
+#### **🏢 Senior Data Engineer | EPAM Systems**
+*Mar 2026 – Present*
+* Designing **enterprise-scale cloud-native data architectures** for high-concurrency environments.
+* Implementing **Infrastructure as Code (IaC)** concepts for data pipeline deployment.
+* Driving cost-optimization strategies in Azure/Databricks to reduce compute overhead.
+
+#### **🏢 Software Engineer (Data Engineering) | ADP**
+*Dec 2022 – Mar 2026*
+* Built and maintained **mission-critical ETL/ELT pipelines** handling complex HR/Payroll data.
+* **Reduced latency by 30%** by optimizing Spark shuffle partitions and indexing in Azure Synapse.
+* Developed a **Data Quality Framework** that automated validation, reducing production data drift incidents by 20%.
+* Created executive-level **Power BI dashboards** directly linked to high-performance Synapse views.
+
+#### **🏢 Data Analyst Intern | NxtWave**
+*Nov 2020 – Nov 2022*
+* Automated daily reporting tasks using Python, saving the team **15+ manual hours weekly**.
+* Mastered the transition from raw API ingestion to structured SQL storage.
+
+---
+
+### 📂 Featured Technical Repositories
+
+#### 🏗️ [Modern SQL Data Warehouse](https://github.com/rakeshbontala)
+* **Goal:** Solve the "Data Silo" problem for a retail use case.
+* **Tech:** SQL Server, Dimensional Modeling (SCD Type 2), ETL.
+* **Impact:** Built a robust star-schema foundation that supports complex historical reporting.
+
+#### ⚙️ [Production-Grade Airflow Orchestrator](https://github.com/rakeshbontala)
+* **Goal:** Build a fail-safe pipeline orchestration system.
+* **Tech:** Python, Apache Airflow, PostgreSQL.
+* **Features:** Dynamic DAG generation, custom Slack alerting providers, and auto-retry logic.
+
+---
+
+### 📈 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rakeshbontala&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakeshbontala&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakeshbontala&theme=tokyonight&hide_border=true" width="86%" />
+</p>
+
+---
+
+### 🎯 High-Value Expertise
+* **Spark Optimization:** Broadcast joins, caching strategies, and skew handling.
+* **Data Modeling:** Designing for the "Long Term"—minimizing technical debt in Fact/Dim tables.
+* **Engineering Reliability:** Implementing unit tests for data (dbt/Great Expectations style).
+
+---
+
+### 📫 Connect With Me
+* **Phone:** [+91 8639181341](tel:+918639181341)
+* **Email:** [bontalarakesh4@gmail.com](mailto:bontalarakesh4@gmail.com)
+* **Portfolio/Blog:** [Work in Progress 🚧]
 
 ---
 
 <p align="center">
-  🔍 Thank you for visiting! Let's connect and <b>build scalable data systems together</b>.
+  <i>"In God we trust, all others must bring data."</i> <br>
+  <b>Let's build something scalable together.</b>
 </p>
