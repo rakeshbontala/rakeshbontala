@@ -12,8 +12,9 @@
 ### 👨‍💻 Professional Profile
 I am a **Senior Data Engineer** with over **4 years of experience** specializing in the design and implementation of robust, end-to-end data ecosystems. My expertise lies at the intersection of **Software Engineering principles** and **Big Data architecture**. I don't just move data; I build scalable, self-healing "refineries" that turn raw noise into high-fidelity business intelligence.
 
-* **Current Focus:** Architecting cloud-native data platforms at **EPAM Systems**.
-* **Core Philosophy:** Clean code, idempotent pipelines, and performance-first modeling.
+* **🔭 Current Focus:** Architecting cloud-native data platforms at **EPAM Systems**.
+* **⚡ Core Philosophy:** Clean code, idempotent pipelines, and performance-first modeling.
+* **🏆 Certifications:** Databricks Certified Professional | Azure Data Engineer Associate (DP-203).
 
 ---
 
@@ -21,13 +22,12 @@ I am a **Senior Data Engineer** with over **4 years of experience** specializing
 
 | **Domain** | **Technologies** |
 | :--- | :--- |
-| **Cloud Platforms** | **Azure** (Primary: ADF, Databricks, Synapse, ADLS), **AWS** (S3, Redshift, Glue) |
-| **Big Data & Processing** | **PySpark**, Spark SQL, Delta Lake, Hadoop MapReduce |
-| **Languages** | **Python** (Advanced), **SQL** (Expert/Analytical), Shell Scripting |
-| **Orchestration & DevOps** | **Apache Airflow**, GitHub Actions, CI/CD, Git, Docker |
-| **Data Modeling** | Medallion Architecture, Star Schema, Snowflake Schema, Data Vault 2.0 |
-| **Databases** | PostgreSQL, MySQL, SQL Server, Azure SQL, Snowflake |
-| **Visualization** | Power BI, Tableau, Looker |
+| **Cloud Platforms** | ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white) |
+| **Big Data** | ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apachespark&logoColor=white) **PySpark**, Spark SQL, Delta Lake, Hadoop |
+| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=sqlite&logoColor=white) Shell Scripting |
+| **Orchestration** | ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=Apache%20Airflow&logoColor=white) GitHub Actions, CI/CD, Docker |
+| **Modeling** | Medallion Architecture (Bronze/Silver/Gold), Star Schema, Data Vault 2.0 |
+| **Databases** | PostgreSQL, MySQL, SQL Server, Azure Synapse, Snowflake |
 
 ---
 
@@ -36,60 +36,56 @@ I am a **Senior Data Engineer** with over **4 years of experience** specializing
 #### **🏢 Senior Data Engineer | EPAM Systems**
 *Mar 2026 – Present*
 * Designing **enterprise-scale cloud-native data architectures** for high-concurrency environments.
-* Implementing **Infrastructure as Code (IaC)** concepts for data pipeline deployment.
-* Driving cost-optimization strategies in Azure/Databricks to reduce compute overhead.
+* Implementing **Infrastructure as Code (IaC)** concepts for automated data pipeline deployment.
+* Driving cost-optimization strategies in Azure/Databricks to reduce compute overhead and maximize ROI.
 
 #### **🏢 Software Engineer (Data Engineering) | ADP**
 *Dec 2022 – Mar 2026*
 * Built and maintained **mission-critical ETL/ELT pipelines** handling complex HR/Payroll data.
 * **Reduced latency by 30%** by optimizing Spark shuffle partitions and indexing in Azure Synapse.
 * Developed a **Data Quality Framework** that automated validation, reducing production data drift incidents by 20%.
-* Created executive-level **Power BI dashboards** directly linked to high-performance Synapse views.
 
 #### **🏢 Data Analyst Intern | NxtWave**
 *Nov 2020 – Nov 2022*
 * Automated daily reporting tasks using Python, saving the team **15+ manual hours weekly**.
-* Mastered the transition from raw API ingestion to structured SQL storage.
 
 ---
 
 ### 📂 Featured Technical Repositories
 
 #### 🏗️ [Modern SQL Data Warehouse](https://github.com/rakeshbontala)
-* **Goal:** Solve the "Data Silo" problem for a retail use case.
 * **Tech:** SQL Server, Dimensional Modeling (SCD Type 2), ETL.
-* **Impact:** Built a robust star-schema foundation that supports complex historical reporting.
+* **Impact:** Built a robust star-schema foundation that supports complex historical reporting for retail stakeholders.
 
 #### ⚙️ [Production-Grade Airflow Orchestrator](https://github.com/rakeshbontala)
-* **Goal:** Build a fail-safe pipeline orchestration system.
 * **Tech:** Python, Apache Airflow, PostgreSQL.
-* **Features:** Dynamic DAG generation, custom Slack alerting providers, and auto-retry logic.
+* **Features:** Dynamic DAG generation, custom Slack alerting providers, and auto-retry logic for 99.9% uptime.
 
 ---
 
 ### 📈 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rakeshbontala&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rakeshbontala&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakeshbontala&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakeshbontala&theme=tokyonight&hide_border=true" width="86%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakeshbontala&theme=tokyonight&hide_border=true" width="88%" />
 </p>
 
 ---
 
 ### 🎯 High-Value Expertise
-* **Spark Optimization:** Broadcast joins, caching strategies, and skew handling.
-* **Data Modeling:** Designing for the "Long Term"—minimizing technical debt in Fact/Dim tables.
-* **Engineering Reliability:** Implementing unit tests for data (dbt/Great Expectations style).
+* **Performance Tuning:** Broadcast joins, caching strategies, and data skew handling in Spark.
+* **Data Reliability:** Implementing unit tests for data (Great Expectations / dbt logic).
+* **Architecture:** Expert in transitioning legacy on-prem systems to Modern Data Stack (Cloud).
 
 ---
 
 ### 📫 Connect With Me
-* **Phone:** [+91 8639181341](tel:+918639181341)
+* **Direct:** [+91 8639181341](tel:+918639181341)
 * **Email:** [bontalarakesh4@gmail.com](mailto:bontalarakesh4@gmail.com)
-* **Portfolio/Blog:** [Work in Progress 🚧]
+* **LinkedIn:** [rakesh-bonthala](https://linkedin.com/in/rakesh-bonthala/)
 
 ---
 
