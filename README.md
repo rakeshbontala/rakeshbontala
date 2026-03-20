@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://via.placeholder.com/1200x300.png?text=Rakesh+Bontala+|+Data+Engineer" />
-</p>
-
 # 🚀 Senior Data Engineer | Cloud Architect | Scalable Data Solutions
 
 **Rakesh Bontala** • *Building Data Platforms at EPAM Systems*
@@ -16,7 +12,7 @@
 
 ## 👨‍💻 Professional Summary
 
-I am a **Senior Data Engineer** with **4+ years of experience** building scalable data systems and reliable ETL pipelines. I focus on transforming raw data into meaningful insights using **cloud platforms, distributed processing, and clean engineering practices**.
+I am a **Senior Data Engineer** with **4+ years of experience** building scalable data systems and reliable ETL pipelines across cloud platforms. I focus on transforming raw data into meaningful insights using **distributed processing, cloud technologies, and clean engineering practices**.
 
 - 🔭 **Current Focus:** Cloud-native data platforms at **EPAM Systems**
 - ⚡ **Approach:** Clean, reliable, and performance-driven pipelines
@@ -52,42 +48,36 @@ I am a **Senior Data Engineer** with **4+ years of experience** building scalabl
 ### 🏢 Senior Data Engineer | EPAM Systems  
 *Mar 2026 – Present (Recently Joined)*
 
-- Working on cloud-native data solutions for large-scale data processing
-- Building and optimizing data pipelines using Spark and Azure
-- Contributing to architecture discussions and best practices
+- Working on cloud-native data solutions for large-scale data processing  
+- Building and optimizing data pipelines using Spark and Azure  
+- Contributing to architecture discussions and engineering best practices  
 
 ---
 
 ### 🏢 Software Engineer (Data Engineering) | ADP  
 *Dec 2022 – Mar 2026*
 
-- Built and maintained ETL pipelines handling large datasets
-- Improved performance of queries and pipelines
-- Developed data validation and monitoring mechanisms
-- Worked with Azure, Spark, and SQL-based systems
+- Built and maintained ETL pipelines handling large datasets  
+- Improved performance of queries and data workflows  
+- Developed data validation and monitoring frameworks  
+- Worked with Azure, Spark, and SQL-based systems  
 
 ---
 
 ### 🏢 Data Analyst Intern | NxtWave  
 *Nov 2020 – Nov 2022*
 
-- Automated reporting using Python
-- Built dashboards for business insights
-- Improved data accuracy across datasets
+- Automated reporting workflows using Python  
+- Built dashboards for business insights  
+- Improved data accuracy and reporting quality  
 
 ---
 
 ## 📂 Featured Projects
 
-### 🏗️ SQL Data Warehouse
-- Built data warehouse using star schema and ETL pipelines  
+### 🏗️ SQL Data Warehouse  
+Built a data warehouse using star schema and ETL pipelines  
 👉 https://github.com/rakeshbontala/sql-data-warehouse-project  
-
----
-
-### ⚙️ Data Pipeline Project
-- Designed structured data pipeline using SQL and transformations  
-👉 https://github.com/rakeshbontala  
 
 ---
 
@@ -106,7 +96,7 @@ I am a **Senior Data Engineer** with **4+ years of experience** building scalabl
 - Spark & Distributed Processing  
 - Cloud Data Engineering (Azure, AWS)  
 - SQL & Data Modeling  
-- Problem Solving & Optimization  
+- Problem Solving & Performance Optimization  
 
 ---
 
